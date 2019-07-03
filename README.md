@@ -2,9 +2,9 @@
 Desafio para entrevista coopersystem
 
 # Requerimetos Minimos
-PHP 7+
-Larvel 5.4.*
-Mysql Versão 8.0.16 
+- PHP 7+
+- Larvel 5.4.*
+- Mysql Versão 8.0.16 
 
 # Instalação
 
@@ -17,14 +17,15 @@ Mysql Versão 8.0.16
 
 Foi o utilizado o InfyOm para gerar as views magicamente
 
-CRUD PRODUCTS (Produtos)
-CRUD ORDER (Pedidos)
-CRUD CLIENTS (Clientes)
+- CRUD PRODUCTS (Produtos)
+- CRUD ORDER (Pedidos)
+- CRUD CLIENTS (Clientes)
 
 Laravel Relationships
 
 # Opcionais
 
 Foi adicionado login ( não obrigatório para os CRUDS )
-LOGIN
-REGISTER
+
+- LOGIN
+- REGISTER
